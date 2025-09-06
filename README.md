@@ -32,8 +32,8 @@ Note: You can use commit hash instead of Tag.
 
 | Tag           | Dependencies     | Notes                                                                    |
 | :-----------: |:-----------------| :----------------------------------------------------------------------  |
-| 6.5.10.32669  |  | Removed commonlib.aar (has been merged into mobilertc.aar)               |
-| 6.0.12.22275  |  | Rebuild 5.16.10.17706 `BROKEN`                                           |
+| 6.5.10.32669  |  |    16kb page size  |
+| 6.0.12.22275  |  |    |
 
 
 `BROKEN`: JitPack seem to remove files from time to time hence some versions get broken. Health of version can be verified using https://www.jitpack.io/com/github/vuduc4793/jitpack-zoom-us/$TAG/ - it should show `.aar` file.
