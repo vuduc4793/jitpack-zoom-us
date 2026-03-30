@@ -21,7 +21,7 @@ allprojects {
 Now you can add dependency:
 ```gradle
 dependencies {
-    implementation 'com.github.vuduc4793:jitpack-zoom-us:6.5.10.32669'
+    implementation 'com.github.vuduc4793:jitpack-zoom-us:6.5.10.32670'
 }
 ```
 
@@ -32,6 +32,7 @@ Note: You can use commit hash instead of Tag.
 
 | Tag           | Dependencies     | Notes                                                                    |
 | :-----------: |:-----------------| :----------------------------------------------------------------------  |
+| 6.5.10.32670  |  |    Removed ActionBar and title header  |
 | 6.5.10.32669  |  |    16kb page size  |
 | 6.0.12.22275  |  |    |
 
